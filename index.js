@@ -20,16 +20,16 @@ function add() {
 
 function subtract() {
     let result = num1 - num2
-    sumEl.textContent = "Sum: " + result
+    sumEl.textContent = "Substraction: " + result
 }
 
 function divide() {
     let result = num1 / num2
-    sumEl.textContent = "Sum: " + result
+    sumEl.textContent = "Devision: " + result
 }
 
 function multiply() {
     let result = num1 * num2
-    sumEl.textContent = "Sum: " + result
+    sumEl.textContent = "Multiplication: " + result
 }
 
