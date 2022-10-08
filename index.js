@@ -25,7 +25,7 @@ function subtract() {
 
 function divide() {
     let result = num1 / num2
-    sumEl.textContent = "Devision: " + result
+    sumEl.textContent = "Division: " + result
 }
 
 function multiply() {
